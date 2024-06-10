@@ -22,7 +22,3 @@ I am a Computer Science and Engineering (CSE) student with a passion for softwar
 - **BugHunting**: ""
   - Burp Suite
   - IDOR vulnerabilities
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Light-Yagami-01&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default)
