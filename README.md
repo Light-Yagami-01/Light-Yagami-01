@@ -1,6 +1,7 @@
 # Hi there, I'm Light! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=Light-Yagami-01&color=blue) ![GitHub Stars](https://img.shields.io/github/stars/Light-Yagami-01?style=social) [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://twitter.com/_Light_Yagami_x) 
+![Pair Extraordinaire Badge](https://path_to_your_badge_image)
+![Profile views](https://komarev.com/ghpvc/?username=Light-Yagami-01&color=blue) ![GitHub Stars](https://img.shields.io/github/stars/Light-Yagami-01?style=social) [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://twitter.com/_Light_Yagami_x)
 
 ## About Me
 
